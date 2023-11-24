@@ -1,0 +1,5 @@
+sinal_vital,limite_minimo,limite_maximo
+frequencia_cardiaca,60,110
+pressao_sanguinea_sistolica,100,140
+pressao_sanguinea_diastolica,60,100
+niveis_oxigenio,90,100  
